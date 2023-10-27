@@ -39,7 +39,7 @@
             params: { id: activeContact._id },
           }"
         >
-          <span class="mt-2 badge badge-warning">
+          <span class="mt-2 badge badge-warning text-dark">
             <i class="fas fa-edit"></i> Hiệu chỉnh</span
           >
         </router-link>
